@@ -97,8 +97,6 @@ export class Login extends React.Component {
                         
                             <Button style={{ margin: "20px" }} type="submit"    bsStyle="primary">Submit</Button>
                         </form>
-                        <h1> TEST </h1>
-
                 </div>
                  <div>
                     <TableComponent 
