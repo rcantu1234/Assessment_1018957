@@ -72,7 +72,7 @@ export class Login extends React.Component {
                         </div>
 
                         <div className="form-group" style={{ margin: "20px" }}>
-                            <label htmlFor="text">Last Name :</label>
+                            <label htmlFor="text">Phone Number :</label>
                             <input type="text" style={{ width: "500px" }} className="form-control" id="phoneNumber" 
                             placeholder="Phone Number" name="phoneNumber" ref="phoneNumber" 
                             onChange={ this.setEmpState } />
