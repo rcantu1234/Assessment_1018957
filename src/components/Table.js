@@ -30,7 +30,7 @@ import React from 'react';
 //     }
 // }
 
-const TableComponent = props => {
+const TableComponent = (props) => {
     console.log(props);
    return(
        
